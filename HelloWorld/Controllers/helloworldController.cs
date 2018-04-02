@@ -13,5 +13,10 @@ namespace HelloWorld.Controllers
         {
             return "Hello World!";
         }
+
+        public string getstring2()
+        {
+            return "Hello World Again!";
+        }
     }
 }
