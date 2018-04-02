@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace HelloWorld.Controllers
 {
-    public class helloworldController : Controller
+    public class TestController : Controller
     {
-        // GET: helloworld 
-       public string getstring()
+        // GET: Test
+        public ActionResult Index()
         {
-            return "Hello World!!!";
+            return View();
         }
     }
 }
