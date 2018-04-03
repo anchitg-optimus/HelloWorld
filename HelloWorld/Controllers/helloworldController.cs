@@ -8,7 +8,6 @@ namespace HelloWorld.Controllers
 {
     public class helloworldController : Controller
     {
-        // GET: helloworld 
        public string getstring()
         {
             return "Hello World";
