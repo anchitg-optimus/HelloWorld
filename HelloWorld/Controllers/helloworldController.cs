@@ -11,12 +11,8 @@ namespace HelloWorld.Controllers
         // GET: helloworld 
        public string getstring()
         {
-            return "!dfds";
+            return "Hello World!!";
         }
 
-        public string getstring2()
-        {
-            return "Hello World Again!";
-        }
     }
 }
