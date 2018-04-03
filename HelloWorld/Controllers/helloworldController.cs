@@ -10,7 +10,7 @@ namespace HelloWorld.Controllers
     {
        public string getstring()
         {
-            return "Hello World";
+            return "Hello World!";
         }
 
     }
