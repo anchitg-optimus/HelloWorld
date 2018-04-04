@@ -18,12 +18,6 @@ namespace HelloWorld
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }          
             );
-
-            routes.MapRoute(
-                name: "Sprint1",
-                url: "{controller}/{action}/{id}",
-                defaults: new { controller = "HelloWorld", action = "Index", id = UrlParameter.Optional }
-            );
         }
     }
 }

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.PL", "HelloWorld\HelloWorld.PL.csproj", "{BE0DDAFD-058F-48F8-9A6C-09B15D593A6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PL", "HelloWorld\PL.csproj", "{BE0DDAFD-058F-48F8-9A6C-09B15D593A6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.DAL", "HelloWorld.DL\HelloWorld.DAL.csproj", "{5E180381-0155-4E1B-805E-E393A06190F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "HelloWorld.DL\DAL.csproj", "{5E180381-0155-4E1B-805E-E393A06190F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.BL", "HelloWorld.BL\HelloWorld.BL.csproj", "{9EB66B72-E842-444C-9ED1-275A55E96A63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "HelloWorld.BL\BL.csproj", "{9EB66B72-E842-444C-9ED1-275A55E96A63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

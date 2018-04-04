@@ -44,9 +44,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\HelloWorld.DL\HelloWorld.DAL.csproj">
+    <ProjectReference Include="..\HelloWorld.DL\DAL.csproj">
       <Project>{5e180381-0155-4e1b-805e-e393a06190f7}</Project>
-      <Name>HelloWorld.DAL</Name>
+      <Name>DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
