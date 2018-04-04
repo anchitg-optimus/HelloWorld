@@ -20,7 +20,7 @@ namespace HelloWorld
             );
 
             routes.MapRoute(
-                name: "HelloWorld",
+                name: "Sprint1",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "HelloWorld", action = "Index", id = UrlParameter.Optional }
             );
